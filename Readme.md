@@ -4,6 +4,7 @@ Practice project including:
 
 - re-usable UI components (Card, Button, Error Modal)
 - managing user input state & a list of users
+- lifting state up (from child to parent component) and pass props (from parent to child components)
 - validation & resetting logic
 - using CSS modules
 
