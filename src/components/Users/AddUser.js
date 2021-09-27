@@ -63,7 +63,7 @@ const AddUser = ({ onAddUser }) => {
             value={username}
             onChange={usernameChangeHandler}
           />
-          <label htmlfor='age'>Age (Years)</label>
+          <label htmlFor='age'>Age (Years)</label>
           <input
             id='age'
             type='number'
